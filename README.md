@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👩‍🎓 About Me<br>Currently pursuing MCA, with a deep interest in coding and learning more about it every day<br><br>📚 I'm currently learning the MERN stack and Android development.<br><br>🌱 What I'm Working On: FixItNow (MERN)<br><br>🧶 Fun Fact<br>When I’m not coding, you’ll find me crocheting something colorful and cozy</p>
+<p align="left">👩‍🎓 About Me<br>Currently pursuing MCA, with a deep interest in coding and learning more about it every day.<br><br>📚 I'm currently learning the MERN stack and Android development.<br><br>🌱 What I'm Working On: FixItNow (MERN)<br><br>🧶 Fun Fact<br>When I’m not coding, you’ll find me crocheting something colorful and cozy.</p>
 
 ###
 
