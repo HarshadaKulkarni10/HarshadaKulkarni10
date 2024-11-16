@@ -72,8 +72,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HarshadaKulkarni10/count.svg?"  />
-</div>
 
-###
